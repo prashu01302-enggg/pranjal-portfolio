@@ -57,7 +57,7 @@ nav a {
     color: white;              /* White text for links */
     text-decoration: none;     /* Removes underline */
     font-weight: 500;          /* Medium bold text */
-    transition: color 0.3s ease; /* Smooth color change on hover */
+    transition: all 0.3s ease; /* Smooth color change on hover */
 }
 
 nav a:hover {
